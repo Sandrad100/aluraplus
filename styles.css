@@ -34,7 +34,7 @@ body{
 }
 
 .container__caixa {
-    margin: 0 6em;
+    margin: 0 1em;
 }
 
 .container__titulo {
@@ -107,7 +107,7 @@ body{
     display: flex;
     justify-content: center;
     list-style-type: none;
-    margin: 5em 0;
+    margin: 1em 0;
 }
 
 .lista__item {
