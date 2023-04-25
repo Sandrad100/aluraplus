@@ -68,6 +68,7 @@ body{
 
 .secundario {
     align-items: center;
+    margin: 0 10em;
 }
 
 
@@ -146,7 +147,7 @@ body{
     margin-left: 1em;
 }
 
-.rodape__link a:hover {
+.lista__link a:hover {
     color: var(--botao-azul);
 }
 
